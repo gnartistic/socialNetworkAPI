@@ -36,7 +36,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 #### Use the following guidelines to set up your models and API routes:
 
 # Models
-## User
+<br/>
+<br/>
+
+## ✅ User
 <br/>
 <br/>
 
@@ -74,7 +77,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 <br/>
 <br/>
 
-## Thought
+## ✅ Thought
 
 `thoughtText`
 
@@ -106,8 +109,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 # Schema Settings
 
 ### Create a virtual called reactionCount that retrieves the length of the thought's reactions array field on query.
+<br/>
+<br/>
 
-## Reaction (SCHEMA ONLY)
+## ✅ Reaction (SCHEMA ONLY)
 
 `reactionId`
 
