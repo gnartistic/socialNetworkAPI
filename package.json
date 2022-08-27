@@ -1,0 +1,26 @@
+{
+  "name": "socialnetworkapi",
+  "version": "1.0.0",
+  "description": "An API for a social media app built with Express, Mongoose, and MongoD",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnartistic/socialNetworkAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnartistic/socialNetworkAPI/issues"
+  },
+  "homepage": "https://github.com/gnartistic/socialNetworkAPI#readme",
+    "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.0",
+    "mongoose": "^5.10.7"
+  }
+}
