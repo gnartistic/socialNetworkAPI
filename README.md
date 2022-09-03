@@ -148,7 +148,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 <br/>
 <br/>
 
-# API Routes
+# ✅ API Routes
 `/api/users`
 
 -----
