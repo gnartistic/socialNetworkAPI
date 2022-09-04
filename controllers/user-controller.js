@@ -42,8 +42,8 @@ const userController = {
     // POST /api/users
     // expected body:
     // {
-    //     "username": "foo",
-    //     "email": "bar@baz.com"  // must follow the email format
+    //     "username": "chuck",
+    //     "email": "charlie@imSoCool.com"  // must follow the email format
     // }
     createUser ( { body }, res )
     {
@@ -55,8 +55,8 @@ const userController = {
     // PUT /api/users/:id
     // expected body includes at least one of the attributes below:
     // {
-    //     "username": "foo",
-    //     "email": "bar@baz.com"  // must follow the email format
+    //     "username": "chuck",
+    //     "email": "charlie@imSoCool.com"  // must follow the email format
     // }
     updateUser ( { params, body }, res )
     {
