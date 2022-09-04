@@ -15,7 +15,7 @@
   ## Description
   
   ------
-  This is a social network api for a social media startup that uses a NoSQL database so that their website can handle large amounts of unstructured data.
+  This is a social network API for a social media startup that uses a NoSQL database so that their website can handle large amounts of unstructured data.
   
   <br/>
   <br/>
@@ -32,7 +32,7 @@
   ## Installation-Instructions
 
   -----
-  This application has quite a few dependencies from npm. It is reccomended that you run this code in the termianl prior to running this application:  
+  This application has quite a few dependencies from npm. It is reccomended that you run this code in the terminal prior to running this application:  
   ```npm install```
   <br/>
   <br/>
