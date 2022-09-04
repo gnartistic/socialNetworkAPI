@@ -3,13 +3,15 @@
   
   <br/>
   <br/>
-  ## Deployement
+  
+  ## Walkthrough Video
   
   ------
-  [![video](/assets/images/My project-1.png)](https://vimeo.com/746357386)   
+[![screenshot 1](/assets/images/My%20project-1.png)](https://vimeo.com/746357386)   
   
   <br/>
   <br/>
+
   ## Description
   
   ------
@@ -17,6 +19,7 @@
   
   <br/>
   <br/>
+
   ## Table of Contents
 
   -----
